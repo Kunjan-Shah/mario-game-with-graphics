@@ -13,4 +13,4 @@
 
 ## Game in action
 
-![Game Simulation](https://github.com/Kunjan-Shah/mario-game-with-graphics/mario-game-with-graphics-play)
+![Game Simulation](https://github.com/Kunjan-Shah/mario-game-with-graphics/blob/main/mario-game-with-graphics-play.gif)
