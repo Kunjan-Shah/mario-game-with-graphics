@@ -9,8 +9,8 @@
  - If you collide with the Turtles or Princess goes out of the frame `GAME OVER`
 
 ## URL
-[Mario-game-with-graphics](https://sharp-hypatia-5a2f1f.netlify.app/)
-[Mario-game-with-graphics-github-pages](https://kunjan-shah.github.io/mario-game-with-graphics/)
+ - [Mario-game-with-graphics](https://sharp-hypatia-5a2f1f.netlify.app/)
+ - [Mario-game-with-graphics-github-pages](https://kunjan-shah.github.io/mario-game-with-graphics/)
 
 ## Game in action
 
